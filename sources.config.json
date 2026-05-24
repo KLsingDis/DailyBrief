@@ -657,5 +657,17 @@
     "locales": [
       "zh"
     ]
+  },
+  {
+    "id": "ai-hot",
+    "name": "AI HOT 精选",
+    "type": "rss",
+    "url": "https://aihot.virxact.com/feed.xml",
+    "category": "tech",
+    "subcategory": "ai-news",
+    "enabled": true,
+    "locales": [
+      "zh"
+    ]
   }
 ]
